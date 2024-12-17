@@ -3,7 +3,7 @@ package src.app;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Main {
+public class Desafio1 {
     public static void main(String[] args) {
         while (true) {
             Scanner scanner = new Scanner(System.in);
